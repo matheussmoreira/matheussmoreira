@@ -1,4 +1,4 @@
-### Olá, eu sou o Matheus 👋
+# Olá, eu sou o Matheus 👋
 
 👨🏻‍💻 Estudante de baixa-renda, estou cursando o 6º período de Ciência da Computação na PUC-Rio como bolsista. 
 
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussmoreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-## 
+## Me siga em:
  
 <div>
   <a href="https://www.instagram.com/matheusmoreiraz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
