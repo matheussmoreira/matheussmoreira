@@ -1,8 +1,8 @@
-# Olá, eu sou o Matheus 👋
+# OLÁ, EU SOU O MATHEUS! 👋
 
-👨🏻‍💻 Estudante de baixa-renda, curso Ciência da Computação na PUC-Rio como bolsista. 
+👨🏻‍💻 Estudante de baixa-renda, estou cursando Ciência da Computação na PUC-Rio como bolsista. 
 
-🍎 Atualmente, estou no meu último ano como aluno da Apple Developer Academy, que me capacitou a ser um dos 350 vencedores do Swift Student Challenge da WWDC da Apple neste ano de 2021.
+🍎 Sou ex-aluno da Apple Developer Academy PUC-Rio, que me capacitou a ser um dos 350 vencedores do Swift Student Challenge da WWDC da Apple nos anos de 2021 e 2022. Agora, trabalho com desenvolvimento iOS no Instituto de Pesquisas Eldorado.
 
 👥 Além disso, também faço parte do Conselho Gestor do Centro Acadêmico de Informática (CAINF) da minha universidade.
 
