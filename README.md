@@ -2,9 +2,11 @@
 
 👨🏻‍💻 Estudante de baixa-renda, estou cursando Ciência da Computação na PUC-Rio como bolsista. 
 
-🍎 Sou ex-aluno da Apple Developer Academy PUC-Rio, que me capacitou a ser um dos 350 vencedores do Swift Student Challenge da WWDC da Apple nos anos de 2021 e 2022. Também trabalhei com desenvolvimento iOS durante 1 ano um app de recarga de veículos elétricos no Instituto de Pesquisas Eldorado.
+🍎 Sou ex-aluno da Apple Developer Academy PUC-Rio, que me capacitou a ser um dos 350 vencedores do Swift Student Challenge da WWDC da Apple nos anos de 2021 e 2022. Também trabalhei com desenvolvimento iOS durante 1 ano num app de recarga de veículos elétricos no Instituto de Pesquisas Eldorado.
 
 👥 Além disso, faço parte do Conselho Gestor do Centro Acadêmico de Informática (CAINF) da minha universidade.
+
+## [Conheça meus projetos aqui](https://linktr.ee/matheussmoreira)
 
 <div>
   <a href="https://github.com/matheussmoreira">
