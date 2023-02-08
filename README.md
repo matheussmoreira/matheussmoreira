@@ -1,10 +1,22 @@
 # OLÁ, EU SOU O MATHEUS! 👋
 
-👨🏻‍💻 Estudante de baixa-renda, estou cursando Ciência da Computação na PUC-Rio como bolsista. 
+👨🏻‍💻 Estudante de baixa-renda, estou cursando Ciência da Computação na PUC-Rio como bolsista.
 
-🍎 Sou ex-aluno da Apple Developer Academy PUC-Rio, que me capacitou a ser um dos 350 vencedores do Swift Student Challenge da WWDC da Apple nos anos de 2021 e 2022. Também trabalhei com desenvolvimento iOS durante 1 ano num app de recarga de veículos elétricos no Instituto de Pesquisas Eldorado.
+🍎 Possuo 3 anos de experiência com desenvolvimento iOS. Sou ex-aluno da Apple Developer Academy PUC-Rio, onde participei em 2020-21, e em 2022 atuei em um app de recarga de veículos elétricos no Instituto de Pesquisas Eldorado.
+
+🏆 Em 2021-22, fui um dos 350 vencedores do Swift Student Challenge da WWDC da Apple.
+
+📱Em 2021, publiquei o Terra da Contagem, app para iPad sobre ensino de matemática pensado para crianças com síndrome de Down.
+
+📗 Possuo uma página com notas de estudo sobre desenvolvimento iOS disponível para consulta pública.
+
+📝 Atualmente, estou produzindo um e-book entitulo Guia SwiftUI Ilustrado, com o intuito de publicar um material didático sobre SwiftUI na língua portuguesa.
+
+👨🏻‍💻 Também criei um template para organização de estudos no Notion pensado para estudantes.
 
 👥 Além disso, faço parte do Conselho Gestor do Centro Acadêmico de Informática (CAINF) da minha universidade.
+
+💬 Gosto de me comunicar, por isso você também vai encontrar artigos meus no LinkedIn e no Medium.
 
 ## [Conheça meus projetos aqui](https://linktr.ee/matheussmoreira)
 
