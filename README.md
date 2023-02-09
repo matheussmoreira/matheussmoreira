@@ -8,15 +8,15 @@
 
 📱Em 2021, publiquei o Terra da Contagem, app para iPad sobre ensino de matemática pensado para crianças com síndrome de Down.
 
+📝 Atualmente, estou produzindo um e-book entitulado Guia SwiftUI Ilustrado, com o intuito de publicar um material didático sobre SwiftUI na língua portuguesa.
+
 📗 Possuo uma página com notas de estudo sobre desenvolvimento iOS disponível para consulta pública.
 
-📝 Atualmente, estou produzindo um e-book entitulo Guia SwiftUI Ilustrado, com o intuito de publicar um material didático sobre SwiftUI na língua portuguesa.
+💬 Gosto de me comunicar, por isso você também vai encontrar artigos meus no LinkedIn e no Medium.
 
 👨🏻‍💻 Também criei um template para organização de estudos no Notion pensado para estudantes.
 
 👥 Além disso, faço parte do Conselho Gestor do Centro Acadêmico de Informática (CAINF) da minha universidade.
-
-💬 Gosto de me comunicar, por isso você também vai encontrar artigos meus no LinkedIn e no Medium.
 
 ## [Conheça meus projetos aqui](https://linktr.ee/matheussmoreira)
 
