@@ -1,24 +1,27 @@
-# OLÁ, EU SOU O MATHEUS! 👋
 
-👨🏻‍💻 Estudante de baixa-renda, estou cursando Ciência da Computação na PUC-Rio como bolsista.
+# HELLO, I'M MATHEUS! 👋
 
-🍎 Possuo 3 anos de experiência com desenvolvimento iOS. Sou ex-aluno da Apple Developer Academy PUC-Rio, onde participei em 2020-21, e em 2022 atuei em um app de recarga de veículos elétricos no Instituto de Pesquisas Eldorado.
+### About me
+👨🏻‍💻 Low-income student, I'm studying Computer Science at PUC-Rio as a scholarship holder.
 
-🏆 Em 2021-22, fui um dos 350 vencedores do Swift Student Challenge da WWDC da Apple.
+🍎 I am a former student of the Apple Developer Academy PUC-Rio, where I participated in 2020-21.
 
-📱Em 2021, publiquei o Terra da Contagem, app para iPad sobre ensino de matemática pensado para crianças com síndrome de Down.
+🍎 In 2022 I worked on an electric vehicle recharge app at the Eldorado Research Institute.
 
-📝 Atualmente, estou produzindo um e-book entitulado Guia SwiftUI Ilustrado, com o intuito de publicar um material didático sobre SwiftUI na língua portuguesa.
+### Awards
+🏆 In the years 2021 and 2022, I was one of the 350 winners of Apple's WWDC Swift Student Challenge.
 
-📗 Possuo uma página com notas de estudo sobre desenvolvimento iOS disponível para consulta pública.
+### Work
+📱In 2021, I published Terra da Contagem, an iPad app about teaching math designed for children with Down syndrome.
 
-💬 Gosto de me comunicar, por isso você também vai encontrar artigos meus no LinkedIn e no Medium.
+📓 Currently, I am producing the e-book SwiftUI Illustrated Guide, didactic material about SwiftUI in Portuguese.
 
-👨🏻‍💻 Também criei um template para organização de estudos no Notion pensado para estudantes.
+📗 I have a public gallery on Notion with study notes on iOS development.
 
-👥 Além disso, faço parte do Conselho Gestor do Centro Acadêmico de Informática (CAINF) da minha universidade.
+📝 I have a template for organizing studies in Notion made for students to duplicate and use.
 
-## [Conheça meus projetos aqui](https://linktr.ee/matheussmoreira)
+
+## [Discover all my projects here](https://linktr.ee/matheussmoreira)
 
 <div>
   <a href="https://github.com/matheussmoreira">
@@ -26,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussmoreira&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
   
-## Me siga em:
+## Follow me
  
 <div>
   <a href="https://www.linkedin.com/in/matheus-s-moreira-86b2a8177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
