@@ -12,7 +12,7 @@
 🏆 In the years 2021 and 2022, I was one of the 350 winners of Apple's WWDC Swift Student Challenge.
 
 ### Work
-📱In 2021, I published Terra da Contagem, an iPad app about teaching math designed for children with Down syndrome.
+📱In 2021, I published Counting Land, an iPad app about teaching math designed for children with Down syndrome.
 
 📗 I have a public gallery on Notion with study notes on iOS development.
 
