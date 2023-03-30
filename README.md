@@ -14,8 +14,6 @@
 ### Work
 📱In 2021, I published Terra da Contagem, an iPad app about teaching math designed for children with Down syndrome.
 
-📓 Currently, I am producing the e-book SwiftUI Illustrated Guide, didactic material about SwiftUI in Portuguese.
-
 📗 I have a public gallery on Notion with study notes on iOS development.
 
 📝 I have a template for organizing studies in Notion made for students to duplicate and use.
