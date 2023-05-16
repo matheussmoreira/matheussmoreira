@@ -11,7 +11,7 @@
 ### Awards
 🏆 From the years of 2021 to 2023, I was one of the winners of Apple's WWDC Swift Student Challenge.
 
-### Work
+### Projects
 📱In 2021, I published Counting Land, an iPad app about teaching math designed for children with Down syndrome.
 
 📗 I have a public gallery on Notion with study notes on iOS development.
