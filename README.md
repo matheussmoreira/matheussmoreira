@@ -9,7 +9,7 @@
 🍎 In 2022 I worked on an electric vehicle recharge app at the Eldorado Research Institute.
 
 ### Awards
-🏆 In the years 2021 and 2022, I was one of the 350 winners of Apple's WWDC Swift Student Challenge.
+🏆 From the years of 2021 to 2023, I was one of the winners of Apple's WWDC Swift Student Challenge.
 
 ### Work
 📱In 2021, I published Counting Land, an iPad app about teaching math designed for children with Down syndrome.
