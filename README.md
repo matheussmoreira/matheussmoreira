@@ -14,9 +14,11 @@
 ### Projects
 📱In 2021, I published Counting Land, an iPad app about teaching math designed for children with Down syndrome.
 
-📗 I have a public gallery on Notion with study notes on iOS development.
+📗 I have a public gallery on Notion with study resources on iOS development called iOS Developer Notebook.
 
 📝 I have a template for organizing studies in Notion made for students to duplicate and use.
+
+💬 I like to communicate, so you will also find articles of mine on LinkedIn and Medium.
 
 
 ## [Discover all my projects here](https://linktr.ee/matheussmoreira)
