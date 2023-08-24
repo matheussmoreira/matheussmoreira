@@ -6,7 +6,7 @@
 
 🍎 I am a former student of the Apple Developer Academy PUC-Rio, where I participated in 2020-21.
 
-🍎 In 2022 I worked on an electric vehicle recharge app at the Eldorado Research Institute.
+🍎 Currently, I work as iOS developer at Stefanini.
 
 ### Awards
 🏆 From the years of 2021 to 2023, I was one of the winners of Apple's WWDC Swift Student Challenge.
