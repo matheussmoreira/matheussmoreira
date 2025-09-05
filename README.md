@@ -1,25 +1,26 @@
 
-# HELLO, I'M MATHEUS! 👋
+# Hello, I'm Matheus! 👋
 
-### About me
-👨🏻‍💻 Low-income student, I'm studying Computer Science at PUC-Rio as a scholarship holder.
+## About me
+👨🏻‍💻 I'm currently finishing my Computer Science undergrad at PUC-Rio.
 
-🍎 I am a former student of the Apple Developer Academy PUC-Rio, where I participated in 2020-21.
+🍎 I started my career in iOS at the Apple Developer Academy PUC-Rio (2020-21).
 
-🍎 Currently, I work as iOS developer at Stefanini.
+🍎 I worked as a consultant at the Eldorado Institute (2022) and, today, I work as a Mid-Level iOS Developer at Stefanini (since 2023).
 
-### Awards
-🏆 From the years of 2021 to 2023, I was one of the winners of Apple's WWDC Swift Student Challenge.
+👥 I'm also the leader of Brother Carioca, a volunteer project for integrating foreigners in Rio de Janeiro.
 
-### Projects
-📱In 2021, I published Counting Land, an iPad app about teaching math designed for children with Down syndrome.
+## Achievements
+🏆 In 2021, 2022, and 2023, I was one of the winners of Apple's WWDC Swift Student Challenge.
 
-📗 I have a public gallery on Notion with study resources on iOS development called iOS Developer Notebook.
+## Projects
+📱In 2021, I published Terra da Contagem, an iPad app for teaching math designed for children with Down syndrome (Portuguese)
 
-📝 I have a template for organizing studies in Notion made for students to duplicate and use.
+📗 I have a public gallery on Notion with study notes on iOS development.
 
-💬 I like to communicate, so you will also find articles of mine on LinkedIn and Medium.
+📝 I have a template for organizing studies in Notion designed for students to duplicate and use.
 
+💬 I enjoy communicating, so you'll also find my articles on LinkedIn and Medium.
 
 ## [Discover all my projects here](https://linktr.ee/matheussmoreira)
 
