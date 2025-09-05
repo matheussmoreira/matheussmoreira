@@ -2,11 +2,12 @@
 # Hello, I'm Matheus! 👋
 
 ## About me
+
 👨🏻‍💻 I'm currently finishing my Computer Science undergrad at PUC-Rio.
 
 🍎 I started my career in iOS at the Apple Developer Academy PUC-Rio (2020-21).
 
-🍎 I worked as a consultant at the Eldorado Institute (2022) and, today, I work as a Mid-Level iOS Developer at Stefanini (since 2023).
+🍎 I worked as a consultant at the Eldorado Institute (2022) and, today, **I work as a Mid-Level iOS Developer at Stefanini (since 2023).**
 
 👥 I'm also the leader of Brother Carioca, a volunteer project for integrating foreigners in Rio de Janeiro.
 
