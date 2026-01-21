@@ -1,35 +1,25 @@
 
-# Hello, I'm Matheus! 👋
+# Hey, I'm Matheus! 👋
 
 ## About me
 
-👨🏻‍💻 Bachelor in Computer Science by PUC-Rio.
+👨🏻‍💻 Bachelor in Computer Science from PUC-Rio.
 
-🍎 I started my career in iOS at the Apple Developer Academy PUC-Rio (2020-21).
+🍎 I work as an iOS Developer at Stefanini.
 
-🍎 I worked as a consultant at the Eldorado Institute (2022) and, today, **I work as a Mid-Level iOS Developer at Stefanini (since 2023).**
-
-👥 I'm also the leader of Brother Carioca, a volunteer project for integrating foreigners in Rio de Janeiro.
+👥 I’m the head of [Brother Carioca](https://www.instagram.com/brothercarioca/), project for integrating foreigners in Rio de Janeiro.
 
 ## Achievements
-🏆 In 2021, 2022, and 2023, I was one of the winners of Apple's WWDC Swift Student Challenge.
+🏆 I was one of the winners of Apple's Swift Student Challenge in 2021, 2022, and 2023.
 
 ## Projects
-📱In 2021, I published Terra da Contagem, an iPad app for teaching math designed for children with Down syndrome (Portuguese)
+📗 I have a public gallery on Notion with study notes on iOS development and Git.
 
-📗 I have a public gallery on Notion with study notes on iOS development.
+📝 I have a study organization template on Notion made for students.
 
-📝 I have a template for organizing studies in Notion designed for students to duplicate and use.
+💬 I like to communicate, so you'll also find my articles on LinkedIn and Medium.
 
-💬 I enjoy communicating, so you'll also find my articles on LinkedIn and Medium.
-
-## [Discover all my projects here](https://linktr.ee/matheussmoreira)
-
-<div>
-  <a href="https://github.com/matheussmoreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussmoreira&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussmoreira&layout=compact&langs_count=7&theme=ayu-mirage"/>
-</div>
+## [Meet all my projects here](https://linktr.ee/matheussmoreira)
   
 ## Follow me
  
