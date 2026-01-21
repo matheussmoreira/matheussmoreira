@@ -3,7 +3,7 @@
 
 ## About me
 
-👨🏻‍💻 I'm currently finishing my Computer Science undergrad at PUC-Rio.
+👨🏻‍💻 Bachelor in Computer Science by PUC-Rio.
 
 🍎 I started my career in iOS at the Apple Developer Academy PUC-Rio (2020-21).
 
