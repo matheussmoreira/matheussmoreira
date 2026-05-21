@@ -2,7 +2,6 @@
 # Hey, I'm Matheus! 👋
 
 ## About me
-
 👨🏻‍💻 Bachelor in Computer Science from PUC-Rio.
 
 🍎 I work as an iOS Developer at Stefanini.
@@ -16,8 +15,6 @@
 📗 I have a public gallery on Notion with study notes on iOS development and Git.
 
 📝 I have a study organization template on Notion made for students.
-
-💬 I like to communicate, so you'll also find my articles on LinkedIn and Medium.
 
 ## [Meet all my projects here](https://linktr.ee/matheussmoreira)
   
