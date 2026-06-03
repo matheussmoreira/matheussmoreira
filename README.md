@@ -4,7 +4,7 @@
 ## About me
 **iOS Engineer** with 5 years of experience in building and evolving native apps, from initial conception to App Store publication. Proficient in Swift, UIKit, SwiftUI, MVVM, VIP, VIPER, Combine, and Swift Concurrency, I have worked on projects for major players in the automotive industry (WEG, Honda, and Shell). I focus on ensuring broad unit test coverage, applying clean code principles, and creating reusable components.
 
-Currently, I work as a mid-level iOS engineer at Stefanini, where I have modernized legacy code, mentored a junior developer, and collaborated on technical documentation. I have won the Apple´s Swift Student Challenge three times in a row and also lead the volunteer project [Brother Carioca](https://www.instagram.com/brothercarioca/), a program that helps foreigners integrate into Rio de Janeiro’s culture.
+Currently, I work as a mid-level iOS Engineer at Stefanini, where I have modernized legacy code, mentored a junior developer, and collaborated on technical documentation. I have won the Apple´s Swift Student Challenge three times in a row and also lead the volunteer project [Brother Carioca](https://www.instagram.com/brothercarioca/), a program that helps foreigners integrate into Rio de Janeiro’s culture.
 
 I always strive to combine software quality, communication, and teamwork to deliver robust and scalable apps.
   
