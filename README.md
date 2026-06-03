@@ -2,21 +2,11 @@
 # Hey, I'm Matheus! 👋
 
 ## About me
-👨🏻‍💻 Bachelor in Computer Science from PUC-Rio.
+**iOS Engineer** with over 3 years of experience in building and evolving native apps, from initial conception to App Store publication. Proficient in Swift, UIKit, SwiftUI, MVVM, VIP, VIPER, Combine, and Swift Concurrency, I have worked on projects for major players in the automotive industry (WEG, Honda, and Shell). I focus on ensuring broad unit test coverage, applying clean code principles, and creating reusable components.
 
-🍎 I work as an iOS Developer at Stefanini.
+Currently, I work as a mid-level iOS engineer at Stefanini, where I have modernized legacy code, mentored a junior developer, and collaborated on technical documentation. I have won the Apple´s Swift Student Challenge three times in a row and also lead the volunteer project [Brother Carioca](https://www.instagram.com/brothercarioca/), a program that helps foreigners integrate into Rio de Janeiro’s culture.
 
-👥 I’m the head of [Brother Carioca](https://www.instagram.com/brothercarioca/), project for integrating foreigners in Rio de Janeiro.
-
-## Achievements
-🏆 I was one of the winners of Apple's Swift Student Challenge in 2021, 2022, and 2023.
-
-## Projects
-📗 I have a public gallery on Notion with study notes on iOS development and Git.
-
-📝 I have a study organization template on Notion made for students.
-
-## [Meet all my projects here](https://linktr.ee/matheussmoreira)
+I always strive to combine software quality, communication, and teamwork to deliver robust and scalable apps.
   
 ## Follow me
  
